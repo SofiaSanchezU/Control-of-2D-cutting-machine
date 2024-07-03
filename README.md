@@ -35,5 +35,5 @@ The repository contains three files
 4. The XY Graph block should start to show the results
 
 <p align="center">
-  <img src="Images/cut.png" alt="Texto alternativo" width="300">
+  <img src="Images/cut.png" alt="Texto alternativo" width="600">
 </p>
