@@ -7,7 +7,7 @@ For any questions or suggestions write to sofysan.1993@gmail.com
 # Sumary.
 This repository contains a detailed simulation of a 2D cutting machine, which operates using two DC motors controlled by a PID system. The project simulates the cutting of three distinct shapes—a triangle, a semicircle, and a circle—from a rectangular slab measuring 3 meters in length and 2 meters in height. The size, placement, and orientation of these shapes are arbitrary. The machine starts from its rest position in the upper right corner of the slab, and the reference generator, governed by a "Stateflow" in MATLAB-Simulink, meticulously manages the trajectory and cutting paths. This setup demonstrates the practical application of PID control in managing DC motors and provides a comprehensive platform for experimenting with different cutting scenarios and optimizing machine performance.
 <p align="center">
-  <img src="Images/cut machine.png" alt="Texto alternativo" width="500">
+  <img src="Images/cut machine.png" alt="Texto alternativo" width="300">
 </p>
 
 # Process  
